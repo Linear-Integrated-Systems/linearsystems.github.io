@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-product-post-js",
+    "path": "/products/lsk589/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Site Metadata Title"}},"product":{"id":"8427ee73-85ea-5f49-b5e6-484ca288eebf","excerpt":"","html":"","frontmatter":{"title":"LSK589","description":"LOW NOISE, LOW CAPACITANCE MONOLITHIC DUAL N-CHANNEL JFET","productImageUrl":"https://www.linearsystems.com/lsdata/images/SOT23-6L%20SOIC8L%20TO71-6L%20WHITE.jpg","datasheetUrl":"https://www.linearsystems.com/lsdata/datasheets/Copy_201186%20-%20LSK589%20Rev%20A6%20dated%202019%2007%2023%20-%20Peter.pdf","spiceModelUrl":"https://www.linearsystems.com/lsdata/notfound.pdf","purchaseInfoUrl":"https://www.linearsystems.com/lsdata/notfound.pdf"}}},"pageContext":{"id":"8427ee73-85ea-5f49-b5e6-484ca288eebf"}},
+    "staticQueryHashes": ["2841359383"]}

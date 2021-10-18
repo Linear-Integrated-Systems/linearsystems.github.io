@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-product-post-js",
+    "path": "/products/pn5912/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Site Metadata Title"}},"product":{"id":"e2403b04-4ac5-5410-83be-29db0d4f7158","excerpt":"","html":"","frontmatter":{"title":"PN5912","description":"","productImageUrl":"https://www.linearsystems.com/lsdata/images/SOT23-6L%20SOIC8L%20TO71-6L%20TO78-4L%20White.jpg","datasheetUrl":"https://www.linearsystems.com/lsdata/datasheets/Copy_201132%20-%20LS5911_LS5912_LS5912C%20Rev%20A9%20dated%202020%2003%2003%20-%20Peter.pdf","spiceModelUrl":"https://www.linearsystems.com/lsdata/spicemodel/Copy_LS5912%20NJF.txt","purchaseInfoUrl":"https://www.linearsystems.com/lsdata/notfound.pdf"}}},"pageContext":{"id":"e2403b04-4ac5-5410-83be-29db0d4f7158"}},
+    "staticQueryHashes": ["2841359383"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-product-post-js",
+    "path": "/products/lsu402/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Site Metadata Title"}},"product":{"id":"622ef1bc-bbb8-55cf-9603-187f3faf5cef","excerpt":"","html":"","frontmatter":{"title":"LSU402","description":"","productImageUrl":"https://www.linearsystems.com/lsdata/images/SOIC%208L%20TO71%206L%20TO78%206L%20PDIP%208L%20White.jpg","datasheetUrl":"https://www.linearsystems.com/lsdata/datasheets/Copy_201123%20-%20U401-U406%20Rev%20A9%20dated%202019%2007%2024%20-%20Peter.pdf","spiceModelUrl":"https://www.linearsystems.com/lsdata/spicemodel/Copy_U402-LIS%20NJF.txt","purchaseInfoUrl":"https://www.linearsystems.com/lsdata/notfound.pdf"}}},"pageContext":{"id":"622ef1bc-bbb8-55cf-9603-187f3faf5cef"}},
+    "staticQueryHashes": ["2841359383"]}

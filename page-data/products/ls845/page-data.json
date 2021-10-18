@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-product-post-js",
+    "path": "/products/ls845/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Site Metadata Title"}},"product":{"id":"ed3ffcb2-33f9-58c5-9731-80d37324b518","excerpt":"","html":"","frontmatter":{"title":"LS/843-844-845","description":"Pin for Pin Replacements for Fairchild Motorola National Siliconix-Vishay.All Dual Devices are available in PDIP TO-71 TO-5 SOIC-8 SOT23-6Tested Die All Devices are available with special testing to customer specification.","productImageUrl":"https://www.linearsystems.com/lsdata/images/SOIC%208L%20TO71%206L%20TO78%206L%20PDIP%208L%20White.jpg","datasheetUrl":"https://www.linearsystems.com/lsdata/datasheets/Copy_201144%20-%20LS843%20LS844%20LS845%20Rev%20A12a%20dated%202020%2003%2003%20-%20Peter.pdf","spiceModelUrl":"https://www.linearsystems.com/lsdata/spicemodel/Copy_LS845%20NJF.txt","purchaseInfoUrl":"https://www.linearsystems.com/lsdata/notfound.pdf"}}},"pageContext":{"id":"ed3ffcb2-33f9-58c5-9731-80d37324b518"}},
+    "staticQueryHashes": ["2841359383"]}

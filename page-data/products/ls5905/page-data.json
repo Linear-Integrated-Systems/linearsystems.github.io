@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-product-post-js",
+    "path": "/products/ls5905/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Site Metadata Title"}},"product":{"id":"4a18afff-9be1-5a04-99e1-50cbede0e1ab","excerpt":"","html":"","frontmatter":{"title":"LS5905","description":"","productImageUrl":"https://www.linearsystems.com/lsdata/images/SOIC%208L%20TO71%206L%20TO78%206L%20PDIP%208L%20White.jpg","datasheetUrl":"https://www.linearsystems.com/lsdata/datasheets/Copy_201131%20-%20LS5905%20LS5906%20LS5907%20LS5908%20LS5909%20Rev%20A10%20dated%202019%2007%2024%20-%20Peter.pdf","spiceModelUrl":"https://www.linearsystems.com/lsdata/spicemodel/Copy_2N5905%20NJF.txt","purchaseInfoUrl":"https://www.linearsystems.com/lsdata/notfound.pdf"}}},"pageContext":{"id":"4a18afff-9be1-5a04-99e1-50cbede0e1ab"}},
+    "staticQueryHashes": ["2841359383"]}

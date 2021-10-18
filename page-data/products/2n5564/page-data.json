@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-product-post-js",
+    "path": "/products/2n5564/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Site Metadata Title"}},"product":{"id":"7f646e49-b091-58c2-a40a-ef1efe4939fc","excerpt":"","html":"","frontmatter":{"title":"LS5564","description":"Low Noise, Monolithic Dual, N-Channel JFET","productImageUrl":"https://www.linearsystems.com/lsdata/images/TO-71%206L%20White%20.jpg","datasheetUrl":"https://www.linearsystems.com/lsdata/datasheets/201187%20-%202N5564%20Series%20Rev%20A4%20dated%202019%2007%2025%20-%20Peter.pdf","spiceModelUrl":"https://www.linearsystems.com/lsdata/spicemodel/Copy_2N5564%20NJF.txt","purchaseInfoUrl":"https://www.linearsystems.com/lsdata/notfound.pdf"}}},"pageContext":{"id":"7f646e49-b091-58c2-a40a-ef1efe4939fc"}},
+    "staticQueryHashes": ["2841359383"]}
